@@ -14,7 +14,7 @@ import { rhythm } from "../utils/typography"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
         childImageSharp {
           fixed(width: 50, height: 50) {
             ...GatsbyImageSharpFixed
@@ -26,6 +26,8 @@ const Bio = () => {
           author
           social {
             twitter
+            instagram
+            github
           }
         }
       }
@@ -54,11 +56,19 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Written by <strong>{author}</strong> who lives near and works in Münster (Germany) 
+        building useful things.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          You should follow him on Twitter.
+        </a>
+        {` `}
+        <a href={`https://instagram.com/${social.instagram}`}>
+          Or Instagram.
+        </a>
+        {` `}
+        <a href={`https://github.com/${social.github}`}>
+          Or maybe GitHub, if you're a fellow developer.
         </a>
       </p>
     </div>
