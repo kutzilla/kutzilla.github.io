@@ -1,9 +1,24 @@
 import React from "react"
 import { Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
 const Layout = ({ location, title, children }) => {
+
+  const data = useStaticQuery(graphql`
+    query AuthorQuery {
+      site {
+        siteMetadata {
+          author
+        }
+      }
+    }
+  `)
+
+  const { author } = data.site.siteMetadata
+
+
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
@@ -61,9 +76,7 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        © {new Date().getFullYear()} by {author} 
       </footer>
     </div>
   )
