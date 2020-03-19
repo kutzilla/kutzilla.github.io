@@ -7,7 +7,8 @@ module.exports = {
     social: {
       twitter: `kutzilla`,
       instagram: `kutzilla_`,
-      github: `kutzilla`
+      github: `kutzilla`,
+      mail: `kutz.matthias@gmail.com`
     },
   },
   plugins: [

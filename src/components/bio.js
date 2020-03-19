@@ -28,6 +28,7 @@ const Bio = () => {
             twitter
             instagram
             github
+            mail
           }
         }
       }
@@ -56,19 +57,23 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives near and works in Münster (Germany) 
-        building useful things.
+        Geschrieben von <strong>{author}</strong>, der in der Nähe von Münster lebt und 
+        als IT-Berater arbeitet. Mit ❤️ für Technik 💻 und Umwelt 🌍. Erreichbar auf
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter.
+          Twitter
         </a>
-        {` `}
+        {`, `}
         <a href={`https://instagram.com/${social.instagram}`}>
-          Or Instagram.
+          Instagram
         </a>
-        {` `}
+        {` oder `}
         <a href={`https://github.com/${social.github}`}>
-          Or maybe GitHub, if you're a fellow developer.
+          GitHub
+        </a>
+        {` (Falls du auch ein Entwickler bist). `}
+        <a href={`mailto:${social.mail}`}>
+          Aber auch per Mail.
         </a>
       </p>
     </div>
