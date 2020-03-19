@@ -71,10 +71,11 @@ const Bio = () => {
         <a href={`https://github.com/${social.github}`}>
           GitHub
         </a>
-        {` (Falls du auch ein Entwickler bist). `}
+        {`. Aber auch per `}
         <a href={`mailto:${social.mail}`}>
-          Aber auch per Mail.
+          Mail
         </a>
+        {`.`}
       </p>
     </div>
   )
