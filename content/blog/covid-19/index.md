@@ -48,7 +48,7 @@ Wie eingangs erwähnt, wollte ich diesen Blog eigentlich dazu nutzen um unser Ko
 
 ### Denkt an die Zukunft
 
-Wenn wir die aktuelle Entwicklung betrachten, stehen wir noch weit am Anfang der COVID-19-Pandemie. Wir sollten gerade jetzt zeigen, dass wir in der Lage sind, diese Krise **gemeinsam** und **solidarisch** zu bewältigen. Denn wer weiß wann uns die nächste Krise bevorsteht (bzw. wir uns nicht schon in einer größeren Krise befinden)... Dann sollten wir zumindest eine gute Blaupause haben, wie wir auch die nächste Krise erfolgreich meistern können. Jetzt haben wir die Chance!
+Wenn wir die aktuelle Entwicklung betrachten, stehen wir noch weit am Anfang der COVID-19-Pandemie. Wir sollten gerade jetzt zeigen, dass wir in der Lage sind, diese Krise **gemeinsam** und **solidarisch** zu bewältigen. Denn wer weiß wann uns die nächste Krise bevorsteht (bzw. wir uns nicht schon in einer größeren Krise befinden...). Dann sollten wir zumindest eine gute Blaupause haben, wie wir auch die nächste Krise erfolgreich meistern können. Jetzt haben wir die Chance!
 
 ***
 
