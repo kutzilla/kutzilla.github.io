@@ -8,7 +8,7 @@ description: "Die COVID-19-Krise und unsere Chancen"
 
 ## Die Krise(n)
 
-Vor etwa zwei Monaten kam mir die Idee einen persönlichen Blog zu schreiben. Eigentlich wollte ich diese Plattform nutzen, um über den Klimawandel zu schreiben. Insbesondere um den Einfluss jedes Einzelnen auf diese **Krise** zu thematisieren und Zusammenhänge zwischen Konsum und Klima herzustellen. 
+Vor etwa zwei Monaten kam mir die Idee einen persönlichen Blog zu schreiben. Eigentlich wollte ich diese Plattform nutzen, um Beiträge über den Klimawandel zu veröffentlichen. Insbesondere um den Einfluss jedes Einzelnen auf diese **Krise** zu thematisieren und Zusammenhänge zwischen Konsum und Klima herzustellen. 
 Doch aktuell ist die Klimakrise medial in weite Ferne gerückte. Die Corona-**Krise** dagegen ist in aller Munde. Der Virus beherrscht unsere Medienlandschaft wie keine andere Katastrophe zuvor. Und auch ich widme meinen ersten Blogpost dieser Herausforderung.
 
 ## Die Fakten
