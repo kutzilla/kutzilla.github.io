@@ -19,7 +19,7 @@ Die Reaktionen auf die Virus sind gigantisch. In Italien & Spanien existieren Au
 
 ![Angela Merkel](./merkel.jpg)
 
-## Die Chanche(n)
+## Die Chancen
 
 Welche Chance haben wir nun eigentlich? Naja, so einige! Zunächst kann **Jeder** einen Beitrag leisten. Vor allem indem man (soweit wie möglich) einfach zuhause bleibt und das Haus auch wirklich nur für die aller nötigsten persönlichen Bedürfnisse (Nahrung, Medikamente etc.) verlässt. Das allein hat schon gewaltigen Einfluss auf die Verbreitung des Virus. **Und man kann noch mehr machen**.
 
