@@ -6,7 +6,7 @@ description: "Die COVID-19-Krise und unsere Chancen"
 
 ## Die Krise(n)
 
-Vor etwa zwei Monaten kam mir die Idee einen persönlichen Blog zu schreiben. Eigentlich wollte ich diese Plattform nutzen, um über den Klimawandel zu schreiben. Insbesondere wollte ich den Einfluss jedes Einzelnen auf diese **Krise** thematisieren und Zusammenhänge zwischen Konsum und Klima herstellen. 
+Vor etwa zwei Monaten kam mir die Idee einen persönlichen Blog zu schreiben. Eigentlich wollte ich diese Plattform nutzen, um über den Klimawandel zu schreiben. Insbesondere um den Einfluss jedes Einzelnen auf diese **Krise** zu thematisieren und Zusammenhänge zwischen Konsum und Klima herzustellen. 
 Doch aktuell ist die Klimakrise medial in weite Ferne gerückte. Die Corona-**Krise** dagegen ist in aller Munde. Der Virus beherrscht unsere Medienlandschaft wie keine andere Katastrophe zuvor. Und auch ich widme meinen ersten Blogpost dieser Herausforderung.
 
 ## Die Fakten
@@ -26,7 +26,7 @@ Welche Chance haben wir nun eigentlich? Naja, so einige! Zunächst kann **Jeder*
 
 ### Schafft Abstand (nicht nur körperlich)
 
-Zwar befinden wir uns in einer schnelllebigen Zeit, in der jeder mit seinen eigenen Herausforderungen & Problemen zur Genüge beschäftigt ist. Doch gerade in Zeiten der Krise sollte jeder die Möglichkeit haben Abstand zu gewinnen. Das schafft Blick für das große Ganze und Raum für neue Idee, wie ihr in Zeiten der Krise helfen könnt. Das motiviert euch Ideen zu entwickeln und neue Aktivitäten zu finden.  
+Zwar befinden wir uns in einer schnelllebigen Zeit, in der jeder mit seinen eigenen Herausforderungen & Problemen zur Genüge beschäftigt ist. Doch gerade in Zeiten der Krise sollte jeder die Möglichkeit haben Abstand zu gewinnen. Das schafft Blick für das große Ganze. Und es macht Raum für neue Ideen, wie ihr in Zeiten der Krise helfen könnt. So fällt euch zwangsläufig auch nicht die Decke auf den Kopf.
 
 ### Setzt eure Fähigkeiten ein
 
@@ -44,11 +44,11 @@ Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten ha
 
 ### Reflektiert euer Konsumverhalten
 
-Wie eingangs erwähnt, wollte ich diesen Blog eigentlich dazu nutzen um unser Konsumverhalten in Bezug auf den Klimawandel zu schreiben. Auch wenn der Fokus ein anderer ist - Dieses Thema hat in dieser Krise auch einen hohen Stellenwert. Denn was aktuell in unseren Supermärkten passiert ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch erhalten. Sollte jeder also seinem üblichen Konsum folgen, würde die Versorgung weiterhin reibungslos funktionieren. Durch dieses übermäßige Horten von Waren nehmt ihr den Menschen, die weiter ihrer Beschäftigung folgen, um unsere medizinische Versorgung & Infrastruktur aufrecht zu erhalten, die Möglichkeit über normale Wege die notwendige Grundversorgung zu erhalten. Man male sich aus, welchen Rückkopplungseffekt ein Ausfall dieses Bevölkerungsteils hat ("Wie gut kann man Brot ohne Strom für den Backofen eigentlich backen?"). Kauft nur das was ihr wirklich braucht. Am besten regional, um Lieferketten kurz zu halten und die Verbreitung des Virus auf diesem Wege zu reduzieren.
+Wie eingangs erwähnt, wollte ich diesen Blog eigentlich dazu nutzen um unser Konsumverhalten in Bezug auf den Klimawandel zu schreiben. Auch wenn der Fokus ein anderer ist - Dieses Thema hat in dieser Krise auch einen hohen Stellenwert. Denn was aktuell in unseren Supermärkten passiert ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch erhalten. Sollte jeder also seinem üblichen Konsum folgen, würde die Versorgung weiterhin reibungslos funktionieren. Durch dieses übermäßige Horten von Waren nehmt ihr den Menschen, die weiter ihrer Beschäftigung folgen, um unsere medizinische Versorgung & Infrastruktur aufrecht zu erhalten, die Möglichkeit über normale Wege die notwendige Grundversorgung zu erhalten. Man male sich aus, welchen Rückkopplungseffekt ein Ausfall dieses Bevölkerungsteils hat ("Wie gut kann man Brot ohne Strom für den Backofen eigentlich backen?"). Macht euch ernsthaft Gedanken über euren Konsum und kauft nur das was ihr wirklich braucht. Am besten regional, um Lieferketten kurz zu halten und die Verbreitung des Virus auf diesem Wege zu reduzieren.
 
 ### Denkt an die Zukunft
 
-Wir sollten gerade jetzt zeigen, dass wir in der Lage sind, diese Krise **gemeinsam** und **solidarisch** zu bewältigen. Denn wer weiß wann uns die nächste Krise bevorsteht (bzw. wir uns nicht schon in einer größeren Krise befinden)... Dann sollten wir zumindest eine gute Blaupause haben, wie wir auch die nächste Krise erfolgreich meistern können. Jetzt haben wir die Chance!
+Wenn wir die aktuelle Entwicklung betrachten, stehen wir noch weit am Anfang der COVID-19-Pandemie. Wir sollten gerade jetzt zeigen, dass wir in der Lage sind, diese Krise **gemeinsam** und **solidarisch** zu bewältigen. Denn wer weiß wann uns die nächste Krise bevorsteht (bzw. wir uns nicht schon in einer größeren Krise befinden)... Dann sollten wir zumindest eine gute Blaupause haben, wie wir auch die nächste Krise erfolgreich meistern können. Jetzt haben wir die Chance!
 
 ***
 
