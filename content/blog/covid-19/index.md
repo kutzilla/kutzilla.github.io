@@ -15,7 +15,7 @@ Mittlerweile sollte allen klar sein was [COVID-19](https://www.ecdc.europa.eu/en
 
 ## Die Reaktionen
 
-Die Reaktionen auf die Virus sind gigantisch. In Italien & Spanien existieren Ausgangssperren. Einzelhändler werden um ihre Mehl- und Klopapier-Vorräte gebracht (BTW hauptsache ich kann mir in Zeiten der Krise der Hintern vierlagig abwischen & Non-Stop Brot backen). Menschen in Atemschutzmasken gehören zur Tagesordnung. Und auch in Deutschland hat uns die Bundeskanzelerin in ihrer Ansprache zur Lage der Nation dazu aufgefordert Maßnahmen zu ergreifen. Zwar existiert keine offizielle Aussgangssperre, aber unsere sozialen Kontakte sollen wir so weit wie möglich einschränken. Das öffentliche Leben ist größtenteils komplett zum Erliegen gekommen. Wir befinden uns in einer Schutzquarantäne. So geht es mir zumindest, seitdem ich mich seit Beginn dieser Woche im Home-Office befinde. Und seither habe ich die Wohnung auch nur in ganz seltenen Fällen verlassen. 
+Die Reaktionen auf die Virus sind gigantisch. In Italien & Spanien existieren Ausgangssperren. Einzelhändler werden um ihre Mehl- und Klopapier-Vorräte gebracht (BTW hauptsache ich kann mir in Zeiten der Krise der Hintern vierlagig abwischen & Non-Stop Brot backen). Menschen in Atemschutzmasken gehören zur Tagesordnung. Und auch in Deutschland hat uns die Bundeskanzelerin in ihrer Ansprache zur Lage der Nation dazu aufgefordert Maßnahmen zu ergreifen. Zwar existiert keine offizielle Aussgangssperre, aber unsere sozialen Kontakte sollen wir so weit wie möglich einschränken. Das öffentliche Leben ist größtenteils komplett zum Erliegen gekommen. Wir befinden uns demnach in einer Schutzquarantäne. So geht es mir zumindest, seitdem ich mich seit Beginn dieser Woche im Home-Office befinde. Und seither habe ich die Wohnung auch nur in ganz seltenen Fällen verlassen. 
 
 ![Angela Merkel](./merkel.jpg)
 
@@ -45,7 +45,9 @@ Aber natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeit
 
 ### Reflektiert euren Konsum
 
-TODO: Schreiben
+Wie eingangs erwähnt, wollte ich diesen Blog auch dazu nutzen um unser Konsum-Verhalten zu schreiben. Glücklicherweise bietet diese Krise auch Raum für dieses Thema (auch wenn der Fokus ein anderer ist). Denn was aktuell in unseren Supermärkten los ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch bestehen. 
+
+- TODO Schreiben: Denkt an die anderen
 
 ### Denkt an die Zukunft
 
