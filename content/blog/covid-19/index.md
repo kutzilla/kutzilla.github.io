@@ -38,7 +38,7 @@ Für Technik-Liebhaber (wie mich) sind  Projekte wie der [#WirVsVirus-Hackathon]
 
 ### Zeigt Hilfsbereitsschaft 
 
-Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten haben, um einen Beitrag zu leisten. Oft sind es auch einfach die kleinen Dinge, die Großes bewirken. Helft euren Geschwistern, Eltern, Mitbewohnern, Nachbarn oder vielleicht sogar Fremden in Not. Bei [Quarantäne Helden](https://www.quarantaenehelden.org/#/) könnt ihr Menschen in eurer Umgebung finden, die diese Hilfe wirklich brauchen. Wir befinden uns alle in der Krise. Und für einige von uns, ist das Leben dadurch noch schwieriger.
+Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten haben, um einen Beitrag zu leisten. Oft sind es auch einfach die kleinen Dinge, die Großes bewirken. Helft euren Geschwistern, Eltern, Mitbewohnern, Nachbarn oder vielleicht sogar Fremden in Not. Bei [Quarantäne Helden](https://www.quarantaenehelden.org/#/) könnt ihr Menschen in eurer Umgebung finden, die diese Hilfe wirklich brauchen. Wir befinden uns alle in der Krise. Und einige trifft sie härter als andere.
 
 ![Quarantäne Helden](./helden.png)
 
