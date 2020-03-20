@@ -39,19 +39,17 @@ Für Technik-Liebhaber (wie mich) sind  Projekte wie der [#WirVsVirus-Hackathon]
 
 ### Zeigt Hilfsbereitsschaft 
 
-Aber natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten haben, um einen Beitrag zu leisten. Oft sind es auch einfach die kleinen Dinge, die Großes bewirken. Helft euren Geschwistern, Mitbewohnern, Nachbarn oder vielleicht sogar Fremden in Not. Bei [Quarantäne Helden](https://www.quarantaenehelden.org/#/) könnt ihr Menschen in eurer Umgebung finden, die diese Hilfe wirklich brauchen.
+Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten haben, um einen Beitrag zu leisten. Oft sind es auch einfach die kleinen Dinge, die Großes bewirken. Helft euren Geschwistern, Mitbewohnern, Nachbarn oder vielleicht sogar Fremden in Not. Bei [Quarantäne Helden](https://www.quarantaenehelden.org/#/) könnt ihr Menschen in eurer Umgebung finden, die diese Hilfe wirklich brauchen.
 
 ![Quarantäne Helden](./helden.png)
 
 ### Reflektiert euren Konsum
 
-Wie eingangs erwähnt, wollte ich diesen Blog auch dazu nutzen um unser Konsum-Verhalten zu schreiben. Glücklicherweise bietet diese Krise auch Raum für dieses Thema (auch wenn der Fokus ein anderer ist). Denn was aktuell in unseren Supermärkten los ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch bestehen. 
-
-- TODO Schreiben: Denkt an die anderen
+Wie eingangs erwähnt, wollte ich diesen Blog eigentlich dazu nutzen um unser Konsumverhalten in Bezug auf den Klimawandel zu schreiben. Auch wenn der Fokus ein anderer ist - Dieses Thema hat in dieser Krise auch einen hohen Stellenwert. Denn was aktuell in unseren Supermärkten los ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch bestehen. Sollte jeder also von seinem üblichen Konsum Gebrauch machen, sollte die Versorgung weiterhin funktionieren. Durch dieses übermäßige Horten von Waren nehmt ihr den Menschen, die weiter ihrer Beschäftigung folgen, um unsere Infrastruktur aufrecht zu erhalten, die Möglichkeit über normale Wege die notwendige Grundversorgung zu erhalten. Man male sich aus, welchen Rückkopplungseffekt ein Ausfall dieses Bevölkerungsteils hat ("Wie gut kann man Brot ohne Strom für den Backofen eigentlich backen?").
 
 ### Denkt an die Zukunft
 
-Wir sollten gerade jetzt zeigen, dass wir in der Lage sind, diese Krise **geminsam** und **solidarisch** zu bewältigen. Denn wer weiß wann uns die nächste Krise bevorsteht (bzw. wir uns nicht schon in einer größeren Krise befinden)... Dann sollten wir zumindest eine gute Blaupause haben, wie wir auch die nächste Krise erfolgreich meistern können. Jetzt haben wir die Chance!
+Wir sollten gerade jetzt zeigen, dass wir in der Lage sind, diese Krise **gemeinsam** und **solidarisch** zu bewältigen. Denn wer weiß wann uns die nächste Krise bevorsteht (bzw. wir uns nicht schon in einer größeren Krise befinden)... Dann sollten wir zumindest eine gute Blaupause haben, wie wir auch die nächste Krise erfolgreich meistern können. Jetzt haben wir die Chance!
 
 ***
 
