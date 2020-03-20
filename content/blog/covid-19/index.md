@@ -21,9 +21,8 @@ Die Reaktionen auf die Virus sind gigantisch. In Italien & Spanien existieren Au
 
 ## Die Chanche(n)
 
-Welche Chance haben wir nun eigentlich? Naja, so einige! Zunächst kann **Jeder** einen Beitrag leisten. Vor allem indem man (soweit wie möglich) einfach zuhause bleibt und das Haus auch wirklich nur für die aller nötigsten persönlichen Bedürfnisse (Nahrung, Medikamente etc.) verlässt. Das allein hat schon gewaltigen Einfluss auf die Verbreitung des Virus.
+Welche Chance haben wir nun eigentlich? Naja, so einige! Zunächst kann **Jeder** einen Beitrag leisten. Vor allem indem man (soweit wie möglich) einfach zuhause bleibt und das Haus auch wirklich nur für die aller nötigsten persönlichen Bedürfnisse (Nahrung, Medikamente etc.) verlässt. Das allein hat schon gewaltigen Einfluss auf die Verbreitung des Virus. **Und man kann noch mehr machen**.
 
-Aber was sollen wir mit der ganzen Zeit zuhause anfangen? Schließlich ist man irgendwann mit allen Serien bei Netflix, allen Videospielen an der PlayStation, mit allen Büchern im Regal durch und jedes Gespräch bezüglich der Krise geführt. Die Langweile setzt ein und der Wunsch nach neuen Aktivitäten macht sich breit. **Und davon gibt es einige**.
 
 ### Schafft Abstand (nicht nur körperlich)
 
@@ -43,9 +42,9 @@ Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten ha
 
 ![Quarantäne Helden](./helden.png)
 
-### Reflektiert euren Konsum
+### Reflektiert euer Konsumverhalten
 
-Wie eingangs erwähnt, wollte ich diesen Blog eigentlich dazu nutzen um unser Konsumverhalten in Bezug auf den Klimawandel zu schreiben. Auch wenn der Fokus ein anderer ist - Dieses Thema hat in dieser Krise auch einen hohen Stellenwert. Denn was aktuell in unseren Supermärkten passiert ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch erhalten. Sollte jeder also von seinem üblichen Konsum folgen, sollte die Versorgung weiterhin reibungslos funktionieren. Durch dieses übermäßige Horten von Waren nehmt ihr den Menschen, die weiter ihrer Beschäftigung folgen, um unsere Infrastruktur aufrecht zu erhalten, die Möglichkeit über normale Wege die notwendige Grundversorgung zu erhalten. Man male sich aus, welchen Rückkopplungseffekt ein Ausfall dieses Bevölkerungsteils hat ("Wie gut kann man Brot ohne Strom für den Backofen eigentlich backen?"). Kauft nur das was ihr wirklich braucht. Am besten regional, um Lieferketten kurz zu halten und die Verbreitung des Virus auf diesem Wege zu reduzieren.
+Wie eingangs erwähnt, wollte ich diesen Blog eigentlich dazu nutzen um unser Konsumverhalten in Bezug auf den Klimawandel zu schreiben. Auch wenn der Fokus ein anderer ist - Dieses Thema hat in dieser Krise auch einen hohen Stellenwert. Denn was aktuell in unseren Supermärkten passiert ist unglaublich. Morgens zum Klopapier-Regal zu rennen, um einen Stappel Rollen zu ergatern, ist neuer Volkssport geworden. Aber wieso eigentlich? Schließlich bleibt unsere Grundversorgung doch erhalten. Sollte jeder also seinem üblichen Konsum folgen, würde die Versorgung weiterhin reibungslos funktionieren. Durch dieses übermäßige Horten von Waren nehmt ihr den Menschen, die weiter ihrer Beschäftigung folgen, um unsere medizinische Versorgung & Infrastruktur aufrecht zu erhalten, die Möglichkeit über normale Wege die notwendige Grundversorgung zu erhalten. Man male sich aus, welchen Rückkopplungseffekt ein Ausfall dieses Bevölkerungsteils hat ("Wie gut kann man Brot ohne Strom für den Backofen eigentlich backen?"). Kauft nur das was ihr wirklich braucht. Am besten regional, um Lieferketten kurz zu halten und die Verbreitung des Virus auf diesem Wege zu reduzieren.
 
 ### Denkt an die Zukunft
 
