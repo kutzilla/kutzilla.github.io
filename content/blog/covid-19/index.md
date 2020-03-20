@@ -21,7 +21,7 @@ Die Reaktionen auf die Virus sind gigantisch. In Italien & Spanien existieren Au
 
 ## Die Chancen
 
-Welche Chance haben wir nun eigentlich? Naja, so einige! Zunächst kann **Jeder** einen Beitrag leisten. Vor allem indem man (soweit wie möglich) einfach zuhause bleibt und das Haus auch wirklich nur für die aller nötigsten persönlichen Bedürfnisse (Nahrung, Medikamente etc.) verlässt. Das allein hat schon gewaltigen Einfluss auf die Verbreitung des Virus. **Und man kann noch mehr machen**.
+Welche Chancen haben wir die Krise zu bewältigen? Zunächst kann **Jeder** einen Beitrag leisten. Vor allem indem man (soweit wie möglich) einfach zuhause bleibt und das Haus auch wirklich nur für die aller nötigsten persönlichen Bedürfnisse (Nahrung, Medikamente etc.) verlässt. Das allein hat schon gewaltigen Einfluss auf die Verbreitung des Virus. **Und man kann noch mehr machen**.
 
 
 ### Schafft Abstand (nicht nur körperlich)
@@ -38,7 +38,7 @@ Für Technik-Liebhaber (wie mich) sind  Projekte wie der [#WirVsVirus-Hackathon]
 
 ### Zeigt Hilfsbereitsschaft 
 
-Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten haben, um einen Beitrag zu leisten. Oft sind es auch einfach die kleinen Dinge, die Großes bewirken. Helft euren Geschwistern, Mitbewohnern, Nachbarn oder vielleicht sogar Fremden in Not. Bei [Quarantäne Helden](https://www.quarantaenehelden.org/#/) könnt ihr Menschen in eurer Umgebung finden, die diese Hilfe wirklich brauchen.
+Natürlich muss man kein Computer-Spezialist sein oder besondere Fähigkeiten haben, um einen Beitrag zu leisten. Oft sind es auch einfach die kleinen Dinge, die Großes bewirken. Helft euren Geschwistern, Eltern, Mitbewohnern, Nachbarn oder vielleicht sogar Fremden in Not. Bei [Quarantäne Helden](https://www.quarantaenehelden.org/#/) könnt ihr Menschen in eurer Umgebung finden, die diese Hilfe wirklich brauchen. Wir befinden uns alle in der Krise. Und für einige von uns, ist das Leben dadurch noch schwieriger.
 
 ![Quarantäne Helden](./helden.png)
 
